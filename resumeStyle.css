@@ -1,5 +1,6 @@
 body{
     background: peachpuff;
+    cursor: default;
 }
 
 h2{
@@ -9,6 +10,15 @@ h2{
 
 p{
     line-height: 1.5;
+}
+
+a{
+    color: bisque;
+}
+
+a:hover{
+    opacity: 0.5;
+    color: brown;
 }
 
 #list-div{
