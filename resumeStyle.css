@@ -1,0 +1,35 @@
+body{
+    background: peachpuff;
+}
+
+h2{
+    text-align: center;
+    font-family: cursive;
+}
+
+p{
+    width: 35%;
+    line-height: 1.5;
+}
+
+#list-div{
+    display: flex;
+    flex-direction: column;
+    background: cornflowerblue;
+    margin: auto;
+    padding: 7px;
+    width: 50%;
+    border-radius: 5px;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+li{
+    color: midnightblue;
+}
+
+.familiar-label{
+    color: gold;
+}
