@@ -8,6 +8,12 @@ h2{
     font-family: cursive;
 }
 
+h3{
+    text-decoration: underline;
+    font-variant: small-caps;
+    font-size: 1.5rem;
+}
+
 p{
     line-height: 1.5;
 }
@@ -31,10 +37,6 @@ a:hover{
     padding: 7px;
     width: 50%;
     border-radius: 5px;
-}
-
-h3{
-    text-decoration: underline;
 }
 
 li{
