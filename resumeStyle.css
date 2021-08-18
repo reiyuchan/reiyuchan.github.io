@@ -35,7 +35,8 @@ a:hover{
     background: cornflowerblue;
     margin: auto;
     padding: 7px;
-    width: 50%;
+    width: 60%;
+    padding: 5rem;
     border-radius: 5px;
 }
 
