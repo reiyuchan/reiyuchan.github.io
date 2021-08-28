@@ -46,5 +46,6 @@ a:hover{
     background: grey;
     padding: 10px;
     justify-content: space-around;
-    margin: 0%;
+    margin-bottom: 1.2rem;
+    list-style: none;
 }
