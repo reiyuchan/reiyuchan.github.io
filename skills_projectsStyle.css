@@ -48,4 +48,5 @@ a:hover{
     justify-content: space-around;
     margin-bottom: 1.2rem;
     list-style: none;
+    border-radius: 7px;
 }
