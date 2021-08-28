@@ -1,0 +1,50 @@
+body{
+    background: peachpuff;
+    cursor: default;
+}
+
+#list-div{
+    display: flex;
+    flex-direction: column;
+    background: cornflowerblue;
+    margin: auto;
+    padding: 7px;
+    width: 60%;
+    padding: 5rem;
+    border-radius: 5px;
+}
+
+h2{
+    text-align: center;
+    font-family: cursive;
+}
+
+h3{
+    text-decoration: underline;
+    font-variant: small-caps;
+    font-size: 1.5rem;
+}
+
+p{
+    line-height: 1.5;
+}
+
+a{
+    color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+a:hover{
+    opacity: 0.5;
+    color: brown;
+}
+
+#nav-bar{
+    display: flex;
+    flex-direction: row;
+    background: grey;
+    padding: 10px;
+    justify-content: space-around;
+    margin: 0%;
+}
