@@ -72,6 +72,9 @@ li{
     background: grey;
     padding: 10px;
     justify-content: space-around;
+    position: fixed;
+    width: 100%;
+    top: 0px;
 }
 
 #bgImg::before {
