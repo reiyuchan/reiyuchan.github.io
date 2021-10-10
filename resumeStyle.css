@@ -73,3 +73,16 @@ li{
     padding: 10px;
     justify-content: space-around;
 }
+
+#bgImg::before {
+    content: '';
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: -1;
+    background: url(https://www.unsw.edu.au/engineering/sites/default/files/styles/teaser_mobile/public/images/082_Computer_Science_Engineering_credit-Anna_Kucera.jpg?h=a67b7d3d&itok=9dxtg-Hj);
+    background-size: cover;
+    opacity: 0.25;
+}
