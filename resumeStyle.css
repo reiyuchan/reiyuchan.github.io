@@ -61,6 +61,7 @@ h2:hover{
     list-style: none;
     display: inline;
     margin-right: 4%;
+    padding: 2.5px;
 }
 
 .list-style:hover {
