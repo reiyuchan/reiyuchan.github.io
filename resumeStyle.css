@@ -57,21 +57,22 @@ h2:hover{
     border-radius: 7px;
 }
 
-li{
-    color: midnightblue;
+.list-style {
     list-style: none;
+    display: inline;
+    margin-right: 4%;
 }
 
-.familiar-label{
-    color: gold;
+.list-style:hover {
+  border-bottom: 2px solid rgb(151, 103, 103);
+  
 }
 
 #nav-bar{
-    display: flex;
-    flex-direction: row;
+    display: inline-block;
+    text-align: right;
     background: grey;
     padding: 10px;
-    justify-content: space-around;
     position: fixed;
     width: 100%;
     top: 0px;
