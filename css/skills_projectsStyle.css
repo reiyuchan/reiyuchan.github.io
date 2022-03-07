@@ -17,15 +17,11 @@ body{
 }
 
 h2{
-    text-align: center;
-    font-family: cursive;
-}
-
-h3{
     text-decoration: underline;
     font-variant: small-caps;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
+
 
 p{
     line-height: 1.5;
@@ -42,14 +38,14 @@ a:hover{
     color: brown;
 }
 
-.list-style {
+.nav-bar-style {
     list-style: none;
     display: inline;
     margin-right: 4%;
     padding: 2.5px;
 }
 
-.list-style:hover {
+.nav-bar-style:hover {
   border-bottom: 2px solid rgb(151, 103, 103);
   
 }
@@ -73,7 +69,11 @@ a:hover{
     left: 0px;
     right: 0px;
     z-index: -1;
-    background: url(/assets/082_Computer_Science_Engineering_credit-Anna_Kucera.jpg);
+    background: url("../assets/082_Computer_Science_Engineering_credit-Anna_Kucera.jpg");
     background-size: cover;
     opacity: 0.25;
+}
+
+.list-style {
+    font-size: 1.3rem;
 }

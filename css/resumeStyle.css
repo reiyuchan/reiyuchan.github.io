@@ -88,7 +88,7 @@ h2:hover{
     left: 0px;
     right: 0px;
     z-index: -1;
-    background: url(/assets/082_Computer_Science_Engineering_credit-Anna_Kucera.jpg);
+    background: url("../assets/082_Computer_Science_Engineering_credit-Anna_Kucera.jpg");
     background-size: cover;
     opacity: 0.25;
 }
