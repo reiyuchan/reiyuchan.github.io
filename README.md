@@ -8,6 +8,7 @@ My personal webpage
 - Vuetify
 - Vue Router
 - Axios
+- Lodash
 
 ## Recommended IDE Setup
 
