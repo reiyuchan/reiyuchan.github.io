@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <v-card class="mx-auto">
+    <v-card class="mx-auto" max-width="700">
       <v-card-text class="py-6">
         <v-row align="center" no-gutters>
           <v-col class="text-left">
@@ -22,7 +22,7 @@
         <v-btn href="https://keybase.io/reiyuchan" target="_blank" icon><v-icon>fab fa-keybase</v-icon></v-btn>
       </v-card-actions>
     </v-card>
-    <v-card class="mx-auto my-5" title="Skills">
+    <v-card class="mx-auto my-5" max-width="700" title="Skills">
       <v-list lines="two">
         <v-list-item prepend-icon="mdi mdi-linux" title="Linux" subtitle="Linux Adminstration" />
         <v-list-item prepend-icon="mdi mdi-server" title="IT" subtitle="Server Operations" />
