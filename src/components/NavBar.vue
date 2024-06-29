@@ -1,7 +1,6 @@
 <template>
     <v-app-bar>
         <v-toolbar-title>reiyuchan.github.io</v-toolbar-title>
-        <v-spacer />
         <div class="d-none d-sm-flex ga-4 pa-2">
             <v-btn to="/">Home</v-btn>
             <v-btn to="/repos">Repositories</v-btn>
