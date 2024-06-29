@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <v-card class="mx-auto" max-width="700">
-      <v-card-text class="py-6">
+      <v-card-text>
         <v-row align="center" no-gutters>
           <v-col class="text-left">
             <v-avatar color="grey" class="w-sm-25 h-sm-25 h-50 w-50">
@@ -9,8 +9,9 @@
             </v-avatar>
           </v-col>
           <v-col class="d-flex flex-column ga-3">
+            <v-card-title class="px-0">reiyuchan</v-card-title>
             <p><v-icon>mdi mdi-music</v-icon> Hobbyist Music Producer</p>
-            <p><v-icon>mdi mdi-heart</v-icon> Gaming, Linux</p>
+            <p><v-icon>mdi mdi-heart</v-icon> Gaming, Linux, Music</p>
             <p><v-icon>mdi mdi-code-braces</v-icon> JavaScript/TypeScript, Java, C#, Go</p>
           </v-col>
         </v-row>
@@ -24,11 +25,10 @@
     </v-card>
     <v-card class="mx-auto my-5" max-width="700" title="Skills">
       <v-list lines="two">
-        <v-list-item prepend-icon="mdi mdi-linux" title="Linux" subtitle="Linux Adminstration" />
-        <v-list-item prepend-icon="mdi mdi-server" title="IT" subtitle="Server Operations" />
+        <v-list-item prepend-icon="mdi mdi-linux" title="Linux" subtitle="Linux Adminstration, User Settings" />
+        <v-list-item prepend-icon="mdi mdi-server" title="IT" subtitle="Computer and Server Operations" />
         <v-list-item prepend-icon="mdi mdi-web" title="Web development" subtitle="JavaScript/TypeScript, Java, PHP, Go" />
-        <v-list-item prepend-icon="mdi mdi-android" title="Mobile Development"
-          subtitle="JavaScript/TypeScript, React-Native" />
+        <v-list-item prepend-icon="mdi mdi-android" title="Mobile Development" subtitle="React Native, Cordova" />
         <v-list-item prepend-icon="mdi mdi-unity" title="Game development"
           subtitle="C#, Developing Game Systems, Sound Designer" />
       </v-list>
