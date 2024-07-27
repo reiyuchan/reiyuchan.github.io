@@ -25,7 +25,7 @@
     </v-card>
     <v-card class="mx-auto my-5" max-width="700" title="Skills">
       <v-list lines="two">
-        <v-list-item prepend-icon="mdi mdi-linux" title="Linux" subtitle="Linux Adminstration, User Settings" />
+        <v-list-item prepend-icon="mdi mdi-linux" title="Linux" subtitle="Linux Administration, User Settings" />
         <v-list-item prepend-icon="mdi mdi-server" title="IT" subtitle="Computer and Server Operations" />
         <v-list-item prepend-icon="mdi mdi-web" title="Web development" subtitle="JavaScript/TypeScript, Java, PHP, Go" />
         <v-list-item prepend-icon="mdi mdi-android" title="Mobile Development" subtitle="React Native, Cordova" />
