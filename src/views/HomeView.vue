@@ -12,7 +12,7 @@
             <v-card-title class="px-0">reiyuchan</v-card-title>
             <p><v-icon>mdi mdi-music</v-icon> Hobbyist Music Producer</p>
             <p><v-icon>mdi mdi-heart</v-icon> Gaming, Linux, Music</p>
-            <p><v-icon>mdi mdi-code-braces</v-icon> JavaScript/TypeScript, Java, C#, Go</p>
+            <p><v-icon>mdi mdi-code-braces</v-icon> JavaScript/TypeScript, Java, PHP, C#, Go</p>
           </v-col>
         </v-row>
       </v-card-text>
