@@ -1,7 +1,7 @@
 <template>
     <v-bottom-navigation class="d-flex d-sm-none">
         <v-btn to="/" class="text-uppercase"><v-icon>fas fa-home</v-icon>Home</v-btn>
-        <v-btn to="/repos" class="text-uppercase"><v-icon>fab fa-github</v-icon>Repositories</v-btn>
+        <v-btn to="/repos" class="text-uppercase"><v-icon>fab fa-github</v-icon>Repos</v-btn>
     </v-bottom-navigation>
 </template>
 
